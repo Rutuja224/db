@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": "fe30",
+      "first_name": "Rutuja",
+      "last_name": "Vartak",
+      "email": "rk@gmail.com",
+      "contact": 998899888,
+      "password": "Rutuja@123",
+      "country_code": "91"
+    },
+    {
+      "id": "fe32",
+      "first_name": "Sneha",
+      "last_name": "Patil",
+      "email": "sneha.patil@example.com",
+      "contact": 9988776655,
+      "password": "Sneha@789",
+      "country_code": "91"
+    },
+    {
+      "id": "fe33",
+      "first_name": "Rahul",
+      "last_name": "Verma",
+      "email": "rahul.verma@example.com",
+      "contact": 9123456789,
+      "password": "Rahul@321",
+      "country_code": "91"
+    },
+    {
+      "id": "fe34",
+      "first_name": "Priya",
+      "last_name": "Desai",
+      "email": "priya.desai@example.com",
+      "contact": 9900112233,
+      "password": "Priya@654",
+      "country_code": "91"
+    },
+    {
+      "id": "cd1f",
+      "first_name": "Rutuja",
+      "last_name": "Sharma",
+      "email": "sharma@ex.com",
+      "contact": 3834083,
+      "password": "pranay",
+      "confirm_password": "pranay",
+      "country_code": "965"
+    },
+    {
+      "id": "a375",
+      "first_name": "abhi",
+      "last_name": "abhi",
+      "email": "abhi@fs.com",
+      "contact": 228989,
+      "password": "abhi",
+      "country_code": "91"
+    }
+  ]
+}
